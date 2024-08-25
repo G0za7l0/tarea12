@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\SistemaVentas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA22D933-1B61-4EAF-85F8-FE6BF087DF84}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\user\\source\\repos\\sistemaventas\\capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA22D933-1B61-4EAF-85F8-FE6BF087DF84}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089481B9-F8D2-472D-B563-B0614495A0BD}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\User\\source\\repos\\SistemaVentas\\capanegocio\\cn_permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089481B9-F8D2-472D-B563-B0614495A0BD}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\cn_permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DB415C-AF34-429E-9ADE-978B2162B4D3}|CapaDatos\\CapaDatos.csproj|c:\\users\\user\\source\\repos\\sistemaventas\\capadatos\\cd_permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DB415C-AF34-429E-9ADE-978B2162B4D3}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SistemaVentas\\CapaPresentacion\\Inicio.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Inicio.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SistemaVentas\\CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T20:58:16.237Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CN_Permiso.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SistemaVentas\\CapaNegocio\\CN_Permiso.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CN_Permiso.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SistemaVentas\\CapaNegocio\\CN_Permiso.cs",
+              "RelativeToolTip": "CapaNegocio\\CN_Permiso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T20:37:28.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CD_Permiso.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SistemaVentas\\CapaDatos\\CD_Permiso.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Permiso.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SistemaVentas\\CapaDatos\\CD_Permiso.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Permiso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T20:37:21.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
